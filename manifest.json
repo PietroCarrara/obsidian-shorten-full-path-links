@@ -3,7 +3,7 @@
 	"name": "Prettify Full Path Links",
 	"description": "Display absolute internal links as just the basename of the path.",
 	"author": "Pietro Carrara",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "0.16.0",
 	"isDesktopOnly": false
 }
