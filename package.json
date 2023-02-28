@@ -1,10 +1,10 @@
 {
 	"private": true,
-	"name": "short-internal-links-to-headings",
-	"description": "An Obsidian plugin to display internal links to headings as just the heading name.",
-	"author": "Scott Moore",
+	"name": "obsidian-shorten-full-path-links",
+	"description": " An Obsidian plugin to display absolute internal links as just the basename of the path.",
+	"author": "Pietro Carrara",
 	"license": "MIT",
-	"version": "1.0.2",
+	"version": "1.0.0",
 	"scripts": {
 		"build": "node --require esbuild-register scripts/build.ts",
 		"watch": "node --require esbuild-register scripts/watch.ts"

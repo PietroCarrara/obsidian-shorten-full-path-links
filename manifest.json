@@ -1,9 +1,9 @@
 {
-	"id": "short-internal-links-to-headings",
-	"name": "Short Internal Links to Headings",
-	"description": "Display internal links to headings as just the heading name.",
-	"author": "Scott Moore",
-	"version": "1.0.2",
+	"id": "obsidian-shorten-full-path-links",
+	"name": "Prettify Full Path Links",
+	"description": "Display absolute internal links as just the basename of the path.",
+	"author": "Pietro Carrara",
+	"version": "1.0.0",
 	"minAppVersion": "0.16.0",
 	"isDesktopOnly": false
 }
